@@ -123,3 +123,5 @@ export default function Home() {
         </Box>
       )
   }
+
+  //Code Along: https://medium.com/@billzhangsc/building-a-rag-powered-ai-assistant-the-rate-my-professor-project-19b8a999313a
