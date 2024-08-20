@@ -1,0 +1,22 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof1",
+        "review": "Great professor and very clear",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Prof2",
+        "review": "Very wise professor, but has challenging exams",
+        "subject": "Programming",
+        "stars": 4
+      },
+      {
+        "professor": "Prof3",
+        "review": "Average professor, doesn't have open office hours and lectures are long",
+        "subject": "Organic Chemistry",
+        "stars": 3
+      }
+    ]
+  }
